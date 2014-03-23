@@ -1,0 +1,13 @@
+* groups/sets of problems: groupnames?
+* total points [for each student, problem]
+* total solved [for each student, problem]
+* footer names
+* number of submissions
+* first solve?
+* sorting
+* add support for multiple accounts [union problems solved]
+
+* add support for real names: DONE
+* rewrite in python: DONE [removed perl dependencies]
+* crontab: DONE
+* make prettier!: DONE
